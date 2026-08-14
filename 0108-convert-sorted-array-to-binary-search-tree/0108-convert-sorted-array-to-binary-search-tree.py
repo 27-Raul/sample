@@ -8,7 +8,7 @@ class Solution(object):
     def sortedArrayToBST(self, nums):
         def convert(left,right):
             if left > right:
-                return
+                return None
 
             mid = (left + right)//2
 
