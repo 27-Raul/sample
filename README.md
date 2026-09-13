@@ -46,6 +46,7 @@
 | [0066-plus-one](https://github.com/27-Raul/sample/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/27-Raul/sample/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/27-Raul/sample/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/27-Raul/sample/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,4 +85,9 @@
 | [0118-pascals-triangle](https://github.com/27-Raul/sample/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/27-Raul/sample/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/27-Raul/sample/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0070-climbing-stairs](https://github.com/27-Raul/sample/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/27-Raul/sample/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
