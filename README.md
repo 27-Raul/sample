@@ -15,11 +15,13 @@
 | [0119-pascals-triangle-ii](https://github.com/27-Raul/sample/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/27-Raul/sample/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
+| [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/27-Raul/sample/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/27-Raul/sample/tree/master/0217-contains-duplicate) |
+| [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/27-Raul/sample/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/27-Raul/sample/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
